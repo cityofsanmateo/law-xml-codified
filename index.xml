@@ -18,8 +18,8 @@
         <repository name="cityofsanmateo/law-xml" commit="6a494db1660e977cbf5e0cfa51b0db9dd0a22dee"/>
       </repositories>
       <platform version="2.2.1" reproducible="true"/>
-      <build-date>2021-05-27</build-date>
-      <codified-date>2021-05-19</codified-date>
+      <build-date>2021-06-01</build-date>
+      <codified-date>2021-07-01</codified-date>
     </build>
   </meta>
   <xi:include href="./us/ca/cities/san-mateo/charter/index.xml"/>
