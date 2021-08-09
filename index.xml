@@ -19,7 +19,7 @@
       </repositories>
       <platform version="2.3.0" reproducible="true"/>
       <build-date>2021-08-09</build-date>
-      <codified-date>2020-10-21</codified-date>
+      <codified-date>2020-11-16</codified-date>
     </build>
   </meta>
   <xi:include href="./us/ca/cities/san-mateo/charter/index.xml"/>
