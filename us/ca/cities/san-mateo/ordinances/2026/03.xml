@@ -49,7 +49,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="10.80.010">Section 10.80.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="10.80.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.80.010" codified:citation="Section 10.80.010" codified:display="Amend"/>
+        <codify:replace path="10.80.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.80.010"/>
         <num>10.80.010</num>
         <heading>Purpose.</heading>
         <text>It has been found that leaf blowers cause considerable noise and air pollution and have been the source of numerous complaints by San Mateo residents. <cite doc="City of San Mateo, Cal., Code" path="10.80">This chapter</cite> is intended to regulate the use of leaf blowers to minimize noise and air pollution in the City.</text>
@@ -61,7 +61,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="10.80.020">Section 10.80.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="10.80.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.80.020" codified:citation="Section 10.80.020" codified:display="Amend"/>
+        <codify:replace path="10.80.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.80.020"/>
         <num>10.80.020</num>
         <heading>Leaf Blower – Definition.</heading>
         <text>"Electric leaf blower" is defined as any leaf blower powered by electric means, including but not limited to, battery-powered equipment.</text>
@@ -75,7 +75,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="10.80.025">Section 10.80.025 of the San Mateo Municipal Code</cite> is added as follows:</text>
     <include>
       <section>
-        <codify:insert path="10.80" after="10.80.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.80.025" codified:citation="Section 10.80.025" codified:display="New"/>
+        <codify:insert path="10.80" after="10.80.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.80.025"/>
         <num>10.80.025</num>
         <heading>Prohibition of Gas Leaf Blowers.</heading>
         <text>It shall be unlawful for any person to operate or authorize the operation of a gas leaf blower within the city limits.</text>
@@ -87,7 +87,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="10.80.030">Section 10.80.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="10.80.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.80.030" codified:citation="Section 10.80.030" codified:display="Amend"/>
+        <codify:replace path="10.80.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.80.030"/>
         <num>10.80.030</num>
         <heading>Restriction of Electric Leaf Blowers - Hours of Operation.</heading>
         <text>No person shall use or operate an electric leaf blower in a residential zoning district or in areas bordering a residential zoning district before 8:00 a.m. or after 5:00 p.m. Monday through Friday, nor prior to 9:00 a.m. or after 5:00 p.m. on Saturdays. Use of electric leaf blowers on Sundays or on the following holidays is prohibited: New Years Day, Martin Luther King, Jr. Birthday, Presidents' Day, Memorial Day, Juneteenth, 4th of July, Labor Day, Veterans Day, Thanksgiving, and Christmas.</text>
@@ -99,7 +99,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="10.80.060">Section 10.80.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="10.80.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.80.060" codified:citation="Section 10.80.060" codified:display="Amend"/>
+        <codify:replace path="10.80.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.80.060"/>
         <num>10.80.060</num>
         <heading>Violations.</heading>
         <text>It is unlawful for any person or entity to violate the provisions of <cite doc="City of San Mateo, Cal., Code" path="10.80">this chapter</cite>. Enforcement of <cite doc="City of San Mateo, Cal., Code" path="10.80">this chapter</cite> shall be subject to enforcement pursuant to <cite doc="City of San Mateo, Cal., Code" path="1">Title 1 of the San Mateo Municipal Code</cite> or any legal remedy available by law. Violations of <cite doc="City of San Mateo, Cal., Code" path="10.80">this chapter</cite> may be enforced against the leaf blower operator and/or property owner who has hired, employed or engaged the services of a person or business utilizing leaf blowers.</text>
