@@ -10,5 +10,6 @@
   <xi:include href="./02.xml"/>
   <xi:include href="./01.xml"/>
   <subheading>Uncodified Ordinances</subheading>
+  <xi:include href="./08.xml"/>
   <xi:include href="./05.xml"/>
 </collection>
