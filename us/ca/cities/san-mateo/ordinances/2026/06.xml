@@ -61,7 +61,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.010">Section 27.66.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.66.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.010" codified:citation="Section 27.66.010" codified:display="Amend"/>
+        <codify:replace path="27.66.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.010"/>
         <num>27.66.010</num>
         <heading>Purpose and Intent</heading>
         <text>The intent of the Historic Preservation Ordinance is to promote the protection, enhancement, preservation, and use of historic resources within San Mateo, recognizing they are of economic, cultural, and aesthetic benefit to the community. It is further recognized that the economic, cultural and aesthetic character of the City will be enhanced by honoring its heritage and ensuring that future generations can experience and appreciate it. The purposes of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite> are as follows:</text>
@@ -97,7 +97,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.020">Section 27.66.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.66.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.020" codified:citation="Section 27.66.020" codified:display="Amend"/>
+        <codify:replace path="27.66.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.020"/>
         <num>27.66.020</num>
         <heading>Definitions</heading>
         <para>
@@ -252,7 +252,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.030">Section 27.66.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.66.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.030" codified:citation="Section 27.66.030" codified:display="Amend"/>
+        <codify:replace path="27.66.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.030"/>
         <num>27.66.030</num>
         <heading>San Mateo Historic Resources Inventory</heading>
         <text>The San Mateo Historic Resources Inventory is the official list of locally designated historic resources and includes:</text>
@@ -276,7 +276,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.040">Section 27.66.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.66.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.040" codified:citation="Section 27.66.040" codified:display="Amend"/>
+        <codify:replace path="27.66.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.040"/>
         <num>27.66.040</num>
         <heading>Designation Criteria</heading>
         <text>Prior to approval for listing in the San Mateo Historic Resources Inventory, the City Council shall find that the historic resource satisfies one or more of the criteria outlined below, and retains its historic integrity.</text>
@@ -304,7 +304,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.050">Section 27.66.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.66.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.050" codified:citation="Section 27.66.050" codified:display="Amend"/>
+        <codify:replace path="27.66.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.050"/>
         <num>27.66.050</num>
         <heading>Eligibility Requirements for Listing</heading>
         <para>
@@ -323,7 +323,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.060">Section 27.66.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.66.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.060" codified:citation="Section 27.66.060" codified:display="Amend"/>
+        <codify:replace path="27.66.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.060"/>
         <num>27.66.060</num>
         <heading>Procedure for Designating Landmarks</heading>
         <para>
@@ -358,7 +358,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.070">Section 27.66.070 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.070" codified:citation="Section 27.66.070" codified:display="New"/>
+        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.070"/>
         <num>27.66.070</num>
         <heading>Procedure for Designating Historic Districts</heading>
         <para>
@@ -425,7 +425,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.080">Section 27.66.080 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.080" codified:citation="Section 27.66.080" codified:display="New"/>
+        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.080"/>
         <num>27.66.080</num>
         <heading>Criteria and Procedure for Removing a Landmark or Historic District Designation</heading>
         <para>
@@ -460,7 +460,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.090">Section 27.66.090 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.090" codified:citation="Section 27.66.090" codified:display="New"/>
+        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.090"/>
         <num>27.66.090</num>
         <heading>Review Required</heading>
         <para>
@@ -483,7 +483,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.100">Section 27.66.100 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.100" codified:citation="Section 27.66.100" codified:display="New"/>
+        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.100"/>
         <num>27.66.100</num>
         <heading>Certificate of Appropriateness</heading>
         <para>
@@ -534,7 +534,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.110">Section 27.66.110 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.110" codified:citation="Section 27.66.110" codified:display="New"/>
+        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.110"/>
         <num>27.66.110</num>
         <heading>Demolition</heading>
         <para>
@@ -553,7 +553,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.120">Section 27.66.120 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.120" codified:citation="Section 27.66.120" codified:display="New"/>
+        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.120"/>
         <num>27.66.120</num>
         <heading>Design Guidelines</heading>
         <text>In addition to the Certificate of Appropriateness requirements outlined above, all exterior modifications of individually eligible and contributor buildings in the Downtown Retail Core subarea of the Downtown Area Plan shall conform with the Downtown Retail Core and Downtown District Design Guidelines.</text>
@@ -565,7 +565,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.130">Section 27.66.130 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.130" codified:citation="Section 27.66.130" codified:display="New"/>
+        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.130"/>
         <num>27.66.130</num>
         <heading>Incentives for Preserving Historic Resources</heading>
         <text>To foster preservation and encourage participation in the City's historic preservation efforts, the following incentives are available to Landmarks or Contributors within a Historic District listed in the San Mateo Historic Resources Inventory:</text>
@@ -589,7 +589,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.140">Section 27.66.140 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.140" codified:citation="Section 27.66.140" codified:display="New"/>
+        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.140"/>
         <num>27.66.140</num>
         <heading>Duty to Keep in Good Repair</heading>
         <text>The owner of a resource listed in the San Mateo Historic Resources Inventory shall keep in good repair the exterior portions of all such buildings, structures, or improvements, and all interior portions thereof whose maintenance is necessary to prevent deterioration of any exterior improvement or essential exterior architectural or character-defining features. They shall also maintain properties in compliance with <cite doc="City of San Mateo, Cal., Code" path="7.14">San Mateo Municipal Code Chapter 7.14</cite> and the protective treatment standards of the International Property Maintenance Code.</text>
@@ -601,7 +601,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.66.150">Section 27.66.150 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.150" codified:citation="Section 27.66.150" codified:display="New"/>
+        <codify:insert path="27.66" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.150"/>
         <num>27.66.150</num>
         <heading>Enforcement and Penalties</heading>
         <para>

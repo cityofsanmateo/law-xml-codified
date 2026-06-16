@@ -37,7 +37,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.23">Chapter 2.23 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="2">Title 2</cite> as follows:</text>
     <include>
       <container>
-        <codify:insert path="2" after="2.22" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.23.010|annos" codified:citation="Section 2.23.010" codified:display="New"/>
+        <codify:insert path="2" after="2.22" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.23.010|annos"/>
         <prefix>Chapter</prefix>
         <num>2.23</num>
         <heading codify:value="HISTORIC RESOURCES COMMISSION">Historic Resources Commission</heading>
