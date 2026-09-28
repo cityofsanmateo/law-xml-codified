@@ -1082,16 +1082,11 @@
         <annotation app="2025-12-03" doc="City of San Mateo, Cal., Ord. No. 2025-09" eff="2025-12-03" path="§43" target-path="23.16.010" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>23.16.020</num>
       <heading>Section 719.0 Cleanouts.</heading>
-      <text>Section 719.1 Locations is amended by adding Section 719.1.1 as follows:</text>
-      <include>
-        <text>
-          <strong>719.1.1 Additional Locations.</strong>
-        </text>
-        <text>Cleanouts shall be installed adjacent to the property line where the private sewer system connects to the public sanitary sewer lateral and in conformance with the California Plumbing Code. All such line cleanouts shall be extended to grade with materials and according to specifications approved by the Director of Public Works, or designee, and terminate within a concrete box.</text>
-      </include>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1999-8" path="§7" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-11" path="§6" type="History"/>
@@ -1100,6 +1095,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-13" path="§6" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-10" path="§7" type="History"/>
         <annotation app="2025-12-03" doc="City of San Mateo, Cal., Ord. No. 2025-09" eff="2025-12-03" path="§44" target-path="23.16.020" type="History"/>
+        <annotation app="2026-10-08" doc="City of San Mateo, Cal., Ord. No. 2026-09" eff="2026-10-08" path="§2" target-path="23.16.020" type="History"/>
       </annotations>
     </section>
   </container>
@@ -4920,37 +4916,51 @@
   <container>
     <prefix>Chapter</prefix>
     <num>23.48</num>
-    <heading>SPECIFICATIONS FOR PUBLIC WORKS CONSTRUCTION</heading>
+    <heading>Engineering Standards For Public Improvements<annotation app="2026-10-08" doc="City of San Mateo, Cal., Ord. No. 2026-09" eff="2026-10-08" path="§3" target-path="23.48|heading" type="History"/></heading>
     <section>
       <num>23.48.010</num>
-      <heading>ADOPTION.</heading>
-      <text>The rules, regulations and standards printed in one volume and prepared and promulgated by the Southern California Chapter, American Public Works Association, and the Southern California District. Associated General Contractors of California Joint Cooperative Committee (APWA-AGC), under the title of "Standard Specifications for Public Works Construction, 1979 Edition," are adopted as and for the rules, regulations and standards to be applied to public works construction within this city as to all matters therein contained, except as otherwise provided in <cite path="23.48">this chapter</cite>, by addition of special provisions or as modified by council resolution adopted pursuant to <cite path="23.48">this chapter</cite>. A copy of said standard specifications shall be kept on file in the office of the City Clerk at all times hereafter.</text>
+      <heading>Engineering Standards</heading>
+      <text>The following standards, details, specifications and/or policies are requirements for improvements and activities occurring within the public right-of-way or for publicly-owned infrastructure and are in effect in the City of San Mateo:</text>
+      <para>
+        <num>(a)</num>
+        <text>The City of San Mateo Engineering Standards. That certain document on file with the Director of Public Works, known and designated as "City of San Mateo Engineering Standards" and as adopted by the City Council. The Director of Public Works is delegated the authority to administratively update and/or revise the City of San Mateo Engineering Standards provided the update and/or revisions are limited to making minor clarifications, corrections, or technical changes to the text and diagrams. A copy of these standards shall be available for review by members of the public in the office of the Director of Public Works and also on the City's website.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Standard Plans and Specifications, California Department of Transportation, latest edition. That certain document on file with the Director of Public Works, known and designated as the "California Department of Transportation Standard Plans and Specifications, latest edition" is hereby adopted by reference and made a part hereof, provided, however,  in the event that there is any conflict between the City of San Mateo Engineering Standards and the California Department of Transportation Standard Plans and Specifications, those of the City of San Mateo Engineering Standards shall control.</text>
+      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-25" path="§1" type="History"/>
+        <annotation app="2026-10-08" doc="City of San Mateo, Cal., Ord. No. 2026-09" eff="2026-10-08" path="§4" target-path="23.48.010" type="History"/>
       </annotations>
     </section>
     <section>
       <num>23.48.020</num>
-      <heading>SECTION 307 DELETED—SECTION 86, CALIFORNIA DEPARTMENT OF TRANSPORTATION STANDARD SPECIFICATIONS ADDED.</heading>
-      <text>Section 307 of said standard specifications, entitled, "Street Lighting and Traffic Signals," shall not be a part of this code. In lieu of section 307, section 86 of the state of California Business and Transportation Agency, Department of Transportation Standard Specifications, January 1978 Edition, is added as a part of this code.</text>
+      <heading>Special Provisions—Defined—Authorized</heading>
+      <text>"Special provisions" means any provisions which supplement or modify the San Mateo Engineering Standards set forth in the publications referred to in <cite path="23.48" proof="needed">this chapter</cite>. When included in plans and specifications for a public works construction project, such provisions shall have precedence over the San Mateo Engineering Standards. The Director of Public Works shall make and include special provisions in any public works construction project when circumstances and conditions warrant.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-25" path="§1" type="History"/>
+        <annotation app="2026-10-08" doc="City of San Mateo, Cal., Ord. No. 2026-09" eff="2026-10-08" path="§5" target-path="23.48.020" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>23.48.030</num>
       <heading>SPECIAL PROVISIONS—DEFINED—AUTHORIZED.</heading>
-      <text>"Special provisions" means any provisions which supplement or modify the standard specifications set forth in the publications referred to in <cite path="23.48">this chapter</cite>. When included in specifications for a public works construction project, such provisions shall have precedence over standard specifications. The public works director shall make and include special provisions in any public works construction project when circumstances and conditions warrant.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-25" path="§1" type="History"/>
+        <annotation app="2026-10-08" doc="City of San Mateo, Cal., Ord. No. 2026-09" eff="2026-10-08" path="§6" target-path="23.48.030" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>23.48.040</num>
       <heading>ADOPTION AND AMENDMENTS BY RESOLUTION—AUTHORIZED.</heading>
-      <text>All future enactments, amendments, modifications or revisions of the standard specifications for public works construction may be made by resolution of the Council.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-25" path="§1" type="History"/>
+        <annotation app="2026-10-08" doc="City of San Mateo, Cal., Ord. No. 2026-09" eff="2026-10-08" path="§7" target-path="23.48.040" type="History"/>
       </annotations>
     </section>
   </container>

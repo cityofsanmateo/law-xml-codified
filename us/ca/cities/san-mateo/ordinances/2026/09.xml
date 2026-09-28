@@ -61,7 +61,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="17.16.010" proof="needed">Section 17.16.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="17.16.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.16.010" codified:citation="Section 17.16.010" codified:display="Amend"/>
+        <codify:replace path="17.16.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.16.010"/>
         <num>17.16.010</num>
         <heading>Conformance with Chapter Required</heading>
         <text>No building or structure or open paved area designed or used for a garage or for the storing of automobiles, and which is reached by a driveway crossing the sidewalk or public property in front of such building structure or area, shall hereafter be used for such purposes, unless the driveway crossing the sidewalk or public property leading to such building structure or area and the curb in front thereof is built or constructed in conformity with the provisions of <cite doc="City of San Mateo, Cal., Code" path="17.16" proof="needed">this chapter</cite>.</text>
@@ -73,14 +73,14 @@
   <section>
     <num>2</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="23.16.020" proof="needed">Section 23.16.020 of the San Mateo Municipal Code</cite> is repealed.</text>
-    <codify:repeal path="23.16.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.16.020" codified:citation="Section 23.16.020" codified:display="Repeal"/>
+    <codify:repeal path="23.16.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.16.020"/>
   </section>
   <section>
     <num>3</num>
     <text>The title of <cite doc="City of San Mateo, Cal., Code" path="23.48" proof="needed">Chapter 23.48 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <container>
-        <codify:replace path="23.48|heading" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.48" codified:citation="Chapter 23.48" codified:display="Amend">
+        <codify:replace path="23.48|heading" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.48">
           <heading>Engineering Standards For Public Improvements</heading>
         </codify:replace>
         <prefix>Chapter</prefix>
@@ -94,7 +94,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.48.010" proof="needed">Section 23.48.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="23.48.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.48.010" codified:citation="Section 23.48.010" codified:display="Amend"/>
+        <codify:replace path="23.48.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.48.010"/>
         <num>23.48.010</num>
         <heading>Engineering Standards</heading>
         <text>The following standards, details, specifications and/or policies are requirements for improvements and activities occurring within the public right-of-way or for publicly-owned infrastructure and are in effect in the City of San Mateo:</text>
@@ -114,7 +114,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.48.020" proof="needed">Section 23.48.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="23.48.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.48.020" codified:citation="Section 23.48.020" codified:display="Amend"/>
+        <codify:replace path="23.48.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.48.020"/>
         <num>23.48.020</num>
         <heading>Special Provisions—Defined—Authorized</heading>
         <text>"Special provisions" means any provisions which supplement or modify the San Mateo Engineering Standards set forth in the publications referred to in <cite doc="City of San Mateo, Cal., Code" path="23.48" proof="needed">this chapter</cite>. When included in plans and specifications for a public works construction project, such provisions shall have precedence over the San Mateo Engineering Standards. The Director of Public Works shall make and include special provisions in any public works construction project when circumstances and conditions warrant.</text>
@@ -123,12 +123,12 @@
   </section>
   <section>
     <num>6</num>
-    <codify:repeal path="23.48.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.48.030" codified:citation="Section 23.48.030" codified:display="Repeal"/>
+    <codify:repeal path="23.48.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.48.030"/>
     <text><cite doc="City of San Mateo, Cal., Code" path="23.48.030" proof="needed">Section 23.48.030 of the San Mateo Municipal Code</cite> is repealed.</text>
   </section>
   <section>
     <num>7</num>
-    <codify:repeal path="23.48.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.48.040" codified:citation="Section 23.48.040" codified:display="Repeal"/>
+    <codify:repeal path="23.48.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.48.040"/>
     <text><cite doc="City of San Mateo, Cal., Code" path="23.48.040" proof="needed">Section 23.48.040 of the San Mateo Municipal Code</cite> is repealed.</text>
   </section>
   <section>
@@ -136,7 +136,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="26.32.020" proof="needed">Section 26.32.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="26.32.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.32.020" codified:citation="Section 26.32.020" codified:display="Amend"/>
+        <codify:replace path="26.32.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.32.020"/>
         <num>26.32.020</num>
         <heading>Undergrounding Requires – Exceptions</heading>
         <text>All utility distribution facilities (including but not limited to electric, communication and cable television lines) existing along a subdivision frontage and those installed in and for the purpose of supplying service to any residential or commercial subdivision shall be placed underground, except as follows:</text>
@@ -157,7 +157,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="26.60.010" proof="needed">Section 26.60.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="26.60.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.60.010" codified:citation="Section 26.60.010" codified:display="Amend"/>
+        <codify:replace path="26.60.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.60.010"/>
         <num>26.60.010</num>
         <heading>General Requirements</heading>
         <para>
@@ -188,7 +188,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="26.60.020" proof="needed">Section 26.60.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="26.60.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.60.020" codified:citation="Section 26.60.020" codified:display="Amend"/>
+        <codify:replace path="26.60.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.60.020"/>
         <num>26.60.020</num>
         <heading>Minimum Improvements</heading>
         <text>The minimum improvements within the subdivision and the subdivision's public right-of-way frontage which the subdivider shall make, or agree to make, at its expense prior to acceptance and approval of the final map by the City shall be:</text>
@@ -264,7 +264,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="26.60.030" proof="needed">Section 26.60.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="26.60.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.60.030" codified:citation="Section 26.60.030" codified:display="Amend"/>
+        <codify:replace path="26.60.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.60.030"/>
         <num>26.60.030</num>
         <heading>Guarantees</heading>
         <para>
@@ -279,7 +279,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="26.60.040" proof="needed">Section 26.60.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="26.60.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.60.040" codified:citation="Section 26.60.040" codified:display="Amend"/>
+        <codify:replace path="26.60.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.60.040"/>
         <num>26.60.040</num>
         <heading>Completion Plans</heading>
         <text>The subdivider shall cause the improvement plans to be amended to show the improvements "as built." Said "as built" plans shall be on polyester base film or electronic media.</text>

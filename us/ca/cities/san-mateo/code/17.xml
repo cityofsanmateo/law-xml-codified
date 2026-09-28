@@ -1288,12 +1288,13 @@
     <heading>DRIVEWAYS</heading>
     <section>
       <num>17.16.010</num>
-      <heading>CONFORMANCE WITH CHAPTER REQUIRED.</heading>
-      <text>No building or structure or open paved area designed or used for a garage or for the storing of automobiles, and which is reached by a driveway crossing the sidewalk or public property in front of such building structure or area, shall hereafter be used for such purposes, unless the driveway crossing the sidewalk or public property leading to such building structure or area and the curb in front thereof is built or constructed in conformity with the provisions of <cite path="17.16">this chapter</cite>.</text>
-      <text>If, at any time, the driveway so constructed is no longer necessary because the building structure or area ceases to be used for the storage of automobiles, is removed or destroyed or access thereto is reoriented, the driveway crossing the sidewalk or public place shall be removed and the curb, gutter, sidewalk and parkway restored in line and to the grade of adjacent curb, gutter, sidewalk and parkway.</text>
-      <text>When a new driveway is to be constructed upon the same property, the permit required by <cite path="17.16.030">Section 17.16.030</cite> shall include the removal of any existing driveways no longer necessary.</text>
+      <heading>Conformance with Chapter Required</heading>
+      <text>No building or structure or open paved area designed or used for a garage or for the storing of automobiles, and which is reached by a driveway crossing the sidewalk or public property in front of such building structure or area, shall hereafter be used for such purposes, unless the driveway crossing the sidewalk or public property leading to such building structure or area and the curb in front thereof is built or constructed in conformity with the provisions of <cite path="17.16" proof="needed">this chapter</cite>.</text>
+      <text>Except for the conversion to an accessory dwelling unit, if, at any time, the driveway so constructed is no longer necessary because the building structure or area ceases to be used for the storage of automobiles, is removed or destroyed or access thereto is reoriented, the driveway crossing the sidewalk or public place shall be removed and the curb, gutter, sidewalk and parkway restored in line and to the grade of adjacent curb, gutter, sidewalk and parkway.</text>
+      <text>When a new driveway is to be constructed upon the same property, the permit required by <cite path="17.16.030" proof="needed">Section 17.16.030</cite> shall include the removal of any existing driveways no longer necessary.</text>
       <annotations>
         <annotation type="History">Prior code § 66.42</annotation>
+        <annotation app="2026-10-08" doc="City of San Mateo, Cal., Ord. No. 2026-09" eff="2026-10-08" path="§1" target-path="17.16.010" type="History"/>
       </annotations>
     </section>
     <section>
